@@ -1,2 +1,2 @@
 # proje
-this is a project
+so this is a git project
